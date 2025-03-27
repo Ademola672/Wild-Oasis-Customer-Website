@@ -5,5 +5,5 @@ export const metadata = {
 };
 
 export default function Page() {
-  return <div></div>;
+  return <div>cabin page</div>;
 }
