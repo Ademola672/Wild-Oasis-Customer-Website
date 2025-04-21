@@ -1,6 +1,7 @@
 import { Suspense } from "react";
-import CabinList from "../_components/cabinList";
+
 import Spinner from "../_components/Spinner";
+import CabinList from "../_components/CabinList";
 
 export const metadata = {
   title: "Cabins",
